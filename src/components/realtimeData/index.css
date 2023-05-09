@@ -1,0 +1,17 @@
+body{
+    margin-top: 30px;
+    background-color: rgb(16, 17, 17);
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+}
+
+input{
+    width: 160px;
+}
+
+label, button{
+    margin-left: 20px;
+}
